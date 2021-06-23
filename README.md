@@ -7,3 +7,5 @@ Learn how to work with files and folders. Get familiar with hashing, learn how t
 ## Stages
 ### Stage 1
 Display full path of the files inside the folder specified as an argument
+### Stage 2
+Display full path of the files inside the folder specified as an argument. You can filter by extension and the order is by size of the files
