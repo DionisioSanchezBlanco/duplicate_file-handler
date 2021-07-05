@@ -9,3 +9,5 @@ Learn how to work with files and folders. Get familiar with hashing, learn how t
 Display full path of the files inside the folder specified as an argument
 ### Stage 2
 Display full path of the files inside the folder specified as an argument. You can filter by extension and the order is by size of the files
+### Stage 3
+Display duplicated files. A MD5 hash is got for each file.
